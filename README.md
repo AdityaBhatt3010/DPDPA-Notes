@@ -94,6 +94,33 @@ Amendments address the following:
 
 ---
 
+### 📌 **Example of DPDPA 2025 (Proposed Scenario)**
+
+**Scenario:**
+A Bengaluru-based health-tech startup, **MediWell**, collects user data via its mobile app to offer personalized wellness plans. The data includes **age, gender, location, medical history, and real-time biometric data** from fitness wearables.
+
+**How DPDPA 2025 Applies:**
+
+1. **Consent Management:**
+   MediWell must obtain **explicit and granular consent** before collecting or processing sensitive data like medical records or biometrics. Users must be able to **withdraw consent** at any time.
+
+2. **Sensitive Data Protection:**
+   Since medical and biometric data are proposed to be **strictly categorized as "sensitive"**, MediWell must ensure **end-to-end encryption**, **role-based access control**, and **regular vulnerability assessments**.
+
+3. **Children’s Data:**
+   If MediWell targets users below 18, it must implement **age verification** and acquire **verifiable parental consent**, per the enhanced 2025 provisions.
+
+4. **Cross-Border Transfer:**
+   If MediWell stores data on servers in Singapore, it must verify that **Singapore is on the "approved list"** issued by the Indian government or **seek user permission explicitly** under the amended cross-border rules.
+
+5. **Automated Decision-Making:**
+   MediWell’s AI module provides wellness recommendations. If decisions are fully automated (e.g., denying a treatment plan), users must be given the **right to explanation** and a **human appeal channel**.
+
+6. **Startups/MSME Compliance:**
+   If MediWell is a small business, the 2025 amendments may offer **relaxed compliance requirements**, such as exemption from appointing a DPO or conducting full DPIAs.
+
+---
+
 **Summary**
 
 1. **DPDPA 2023 Highlights**
